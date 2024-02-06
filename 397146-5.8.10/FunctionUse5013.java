@@ -1,0 +1,6 @@
+import cn.hutool.core.lang.Snowflake;
+public class FunctionUse5013 {
+public void funcUse() {
+Snowflake snowflake = new Snowflake();
+}
+}
